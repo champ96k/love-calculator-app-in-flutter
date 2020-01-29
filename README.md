@@ -1,5 +1,4 @@
 # love_calculator
-*.dart linguist-detectable=true
 
 A new Flutter project.
 
